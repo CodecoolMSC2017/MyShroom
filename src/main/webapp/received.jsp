@@ -7,7 +7,7 @@
     <title>Greeting</title>
 </head>
 <body>
-<h1>${greeting.text}</h1>
+<h1>Thank you for subscribing ${email.text}!</h1>
 <a href="index.html">Go back</a>
 </body>
 </html>
